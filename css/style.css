@@ -630,6 +630,14 @@ img {
    margin-bottom: 10px;
 }
 
+.modal-label, .modal-input-title {
+   display: inline-block;
+   font-size: 12px;
+   margin-bottom: 4px;
+}
+
+
+
 .modal-text {
   width: 100%;
   height: 120px;
